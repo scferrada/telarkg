@@ -1,10 +1,13 @@
 # TelarKG
 
-In this document, we present all the types of nodes, edges and properties present in TelarKG.
+TelarKG is a Knowledge Graph that archives the political discussions and social media data related to the Chilean Constitutional Process of 2021-2021.
+This document presents all the types of nodes, edges and properties present in TelarKG. In the following image, you may find a summary of the schema of the knowledge graph:
+
+![Schema of TelarKG](https://github.com/ferradest/telarkg/blob/main/telarkg.png?raw=true)
 
 ## Nodes
 
-For each node label, we provide a brief description of the meaning of the label, as well as all available property names.
+For each node label, we provide a brief description of the meaning of the label, and all available property names.
 
 ### ConventionMember
 
